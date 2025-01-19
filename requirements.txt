@@ -1,0 +1,13 @@
+transformers 
+datasets 
+torch 
+tiktoken
+protobuf
+scikit-learn 
+pandas
+sentencepiece
+evaluate
+accelerate
+
+
+
