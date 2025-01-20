@@ -8,6 +8,4 @@ pandas
 sentencepiece
 evaluate
 accelerate
-
-
-
+streamlit
