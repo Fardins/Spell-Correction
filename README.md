@@ -1,7 +1,7 @@
 <h1 align="center">Multilanguage Spell Correction Project</h1>
 
 <p align="center">
-  <img src="./Output_Examples/demo_app_output.gif" alt="Output" style="border-radius: 5%" width="80%" />
+  <img src="./Output_Examples/demo_app_output.gif" alt="Output" style="border-radius: 5%" width="90%" />
 </p>
 
 ## Overview
